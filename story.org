@@ -1,0 +1,159 @@
+* Dunyanin Sonu
+
+** Start
+
+*** baslangic
+*** baslangic
+
+** Story
+
+*** baslangic
+Dunyada yiyecek ve icecek bitiyor. Dunya yavas yavas yok olmaya basliyor. Karakterimiz ve diger para veren insanlar marsa gitmek icin rokete biniyorlar.
+Sonra bir kara delik roketi icine cekiyor. Ve tum insanlar baska bir boyutta, baska bir yerde uyaniyor.
+
+*** birinibul
+Adamimiz baska insanlari aramaya baslar.
+Yillarca arar...
+Artik neredeyse olecek yasa gelir. Adamimiz hic kimsey bulamadan olur.
+
+*** agacacik
+Adamimiz daha cok sey gormek icin uzunca bir agaca cikmaya calisir. Agac kendisinin tirmanamayacagi kadar uzundur.
+Adam daha kisa agaclardan birinin uzerine cikar. O agactan uzun agaca ziplamaya calisir. Ama arada cok mesafe oldugu icin ordan yere dusup olur.
+
+*** gez
+Adamimiz etrafi gezmeye baslar. uzun bir yol gider. Daglar denizler gecer. En sonunda kocaman bir kapinin onunde bulur kendisini.
+
+*** gez_kac
+Adamimiz kacar kacar kacar...
+En sonunda baya bir yorulur. Kacmayi birakir oraya oturur. Orda cani cok sikilir ve hicbirsey yapamaz. Bu yuzden kapinin yanina geri donmek zorunda kalir.
+
+*** gez_ara
+Adamimiz birsey aramak icin yola cikar yine. Daglar denizler gecer yine. Ama etraf hep aynidir. Etrafta degisik hic birsey yoktur. Sadece agaclar, goller ve cimeni gorebiliyordur.
+
+*** gez_ac
+Adam kocaman kapiyi acmaya calisir. Kapi okadar buyuktur ki gucu acmaya yetmez.
+Tam umudunu kaybedicekken, yukarida kocaman bir delik gorur.
+
+*** gez_ac_gir
+Adamimiz hemen delige tirmanip "Yeeeeeeey" diye bagirarak iceri atlar. Icerde uyuyan kocaman bir canavari uyandirir.
+Canavar "ROOAAAAAR" diye bir ses cikararak, adamimiza dogru gider ve adamimizi yer.
+
+*** gez_ac_don
+Vazgecip geri doner.
+Ama en sonunda iceride ne olabilirki zaten diyerek kapinin onune geri gider.
+
+*** gez_ac_bak
+Adamimiz merakla delikten iceri bakar. Kendini gostermemeye ve sessiz olmaya dikkat eder. Cunku iceride birilerinin oldugundan suphelidir.
+Tam o anda iceride uyuyan kocaman canavari farkeder.
+
+*** gez_ac_bak_don
+Karakterimiz kacar, kacar, kacar...
+En sonunda durur.
+Ve dusunmeye baslar.
+Kapinin yanina geri gider.
+
+*** gez_ac_bak_sok
+Adamimiz canavarin uyudugunu kendine avantaj edinip kafasini canavarin agzina sokar.
+Ve canavar adamimizdan rahatsiz olup, adamimizi yer.
+
+*** gez_ac_bak_kapi
+Adamimiz canavari uyandirmamak icin sessiz olmaya dikkat ederek delikten atlar.
+Sessizce parmak uclarinda arkadaki kapidan iceri girer. Etraf cok karanliktir. Ve adamimizin yaninda fener de vardir.
+
+*** gez_ac_bak_kapi_fener
+Adamimiz fenerini acar ve yurumeye baslar. Ama yukaridan "YEEEE YEEE YEEE YEEEE" diye sesler gelir.
+Adam yukari bakar. Yukarida insan yiyen vampir yarasalar dolaniyordur. Ve sadece isigi yaktigi icin hayatini bitirmis olur.
+
+*** gez_ac_bak_kapi_sarki
+Adamimiz feneri acar ve yuksek sesle sarki soylemeye baslar. Daha sarkidaki ilk harfi soyledigi an ve fenerin isiginin ilk gorundugu an adam acilar icinde yere duser ve olur.
+
+Cunku insan yiyen vampir yarasalar onu isirmistir.
+
+*** gez_ac_bak_kapi_sessiz
+Adamimiz arka tarafta canavarin uyudugunu hatirlayip korkar. Bu yuzden sesini cikarmadan ve fenerini acmadan sessizce koridorda yurumeye devam eder. Sonra isiklarla kapli bir alan gorur karsida ama ne oldugunu goremez. Sadece bembeyaz bir isik gorur.
+
+*** gez_ac_bak_kapi_sessiz_kac
+Adam, "Bu ne ya artik!" deyip kacmaya baslar. Fenerini de acar ve arkaya dogru kacmaya baslar.
+Sonra hem canavari uyandirir, hem de insan yiyen vampir yarasalari...
+Ve bundan dolayi kendi kendinin olumune neden olur.
+
+*** gez_ac_bak_kapi_sessiz_git
+Adam, isiga dogru ilerlemeye baslar.
+Sessizce iceri girer.
+Cok degisik birsey olsa da iceride calisan bir maymun profosor bulur.
+Maymun profosor der ki:
+- Bu kara delik olayini duydum ve onun hakkinda arastirmalar yapiyordum. Bu aleti senin icin yaptim. Bu aleti kullanarak marsa gidebilirsin. Ama gercekten buraya kadar gelecegini hic tahminetmiyordum. Ben sana aleti getirmeye gelecektim ama, sen buraya geldigine gore bu aleti kullanabilirsin.
+
+Adamimiz alete biner, maymun profosore "Tesekkurler!" der ve aletler marsa gider.
+
+Marstaki tek insan olarak orda guzel bir hayat surer.
+
+Tebrikler!!!!
+Oyunu basariyla bitrdiniz.
+
+** Choices
+
+*** baslangic
+**** Kalkip etrafi gezmeye basla
+***** gez
+***** gez
+**** Bir agaca cik ve daha hizlica etrafa bakmaya calis
+***** agacacik
+***** end
+**** Etrafta baska birini bumaya calis
+***** birinibul
+***** end
+
+*** gez
+**** Kapiyi acmaya calis
+***** gez_ac
+***** gez_ac
+**** Geri don ve baska bir sey aramaya basla
+***** gez_ara
+***** baslangic
+**** Kapidan korkup arkana bakmadan kac
+***** gez_kac
+***** gez
+
+*** gez_ac
+**** Delige tirman ve iceri gir
+***** gez_ac_gir
+***** end
+**** Vazgec ve geri don
+***** gez_ac_don
+***** gez
+**** Cikip delikten iceri bak ama girme
+***** gez_ac_bak
+***** gez_ac_bak
+
+*** gez_ac_bak
+**** Iceri atlar, Canavarin uyudugunu kendine avantaj edinip kafasini canavarin agizina sokar
+***** gez_ac_bak_sok
+***** end
+**** Canavara farkettirmeden arkadaki kucuk kapidan gecmeye calisir
+***** gez_ac_bak_kapi
+***** gez_ac_bak_kapi
+**** Kosup geri don
+***** gez_ac_bak_don
+***** gez
+
+*** gez_ac_bak_kapi
+**** Adamimiz elindeki feneri alir, acar ve yurumeye devam eder
+***** gez_ac_bak_kapi_fener
+***** end
+**** Adamimiz fenerini acar ve yuksek sesle sarki soyleyerek devam eder
+***** gez_ac_bak_kapi_sarki
+***** end
+**** Adamimiz fenerini acmaz, sessizce karanlik koridorda devam eder
+***** gez_ac_bak_kapi_sessiz
+***** gez_ac_bak_kapi_sessiz
+
+*** gez_ac_bak_kapi_sessiz
+**** Beyaz isiga dogru ilerler
+***** gez_ac_bak_kapi_sessiz_git
+***** end
+**** Fenerini acar ve "Bu ne ya artik" deyip kacmaya baslar
+***** gez_ac_bak_kapi_sessiz_kac
+***** end
+
+* end

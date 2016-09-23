@@ -15,7 +15,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -87,3 +86,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# emacs
+.\#*
+*~
+\#*\#
+
+# mac files
+.DS_Store
